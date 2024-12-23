@@ -36,26 +36,6 @@ Publish the website in the LocalHost.
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dribbble Clone</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <style>
-        body {
-            background-color: #f7f7f7;
-        }
-        .navbar {
-            background-color: #ffffff;
-        }
-        .navbar-brand {
-            font-weight: bold;
-            color: #ea4c89;
-        }
-        .card img {
-            border-radius: 10px;
-        }
-        .footer {
-            background-color: #343a40;
-            color: #ffffff;
-            padding: 20px 0;
-        }
-    </style>
 </head>
 <body>
 
