@@ -300,7 +300,7 @@ Publish the website in the LocalHost.
 ```
 ## OUTPUT:
 
-![alt text](<Screenshot (83)-1.png>)
+![Screenshot (87)](https://github.com/user-attachments/assets/8ea12802-95f0-4035-a980-f04592073ccf)
 
 ![alt text](<Screenshot (84).png>)
 
